@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "blogTitle": "Sample Blog 1",
+      "blogContent": "Dummy text is also used to demonstrate the appearance of different typefaces and layouts, and in general the content of dummy text is nonsensical. Due to its widespread use as filler text for layouts, non-readability is of great importance: human perception is tuned to recognize certain patterns and repetitions in texts. If the distribution of letters and 'words' is random, the reader will not be distracted from making a neutral judgement on the visual impact and readability of the typefaces (typography), or the distribution of text on the page (layout or type area). For this reason, dummy text usually consists of a more or less random series of words or syllables. This prevents repetitive patterns from impairing the overall visual impression and facilitates the comparison of different typefaces. Furthermore, it is advantageous when the dummy text is relatively realistic so that the layout impression of the final publication is not compromised.",
+      "blogImage": "sample1.jpeg",
+      "blogQuote": "Be positive",
+      "blogBrief": "Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Eget nullam non nisi est sit amet facilisis. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Est sit amet facilisis magna etiam tempor. Odio ut sem nulla pharetra diam. Mi sit amet mauris commodo quis. Cum sociis natoque penatibus et magnis dis. Lobortis feugiat vivamus at augue eget arcu dictum varius duis.",
+      "blogAuthor": "Anonymous",
+      "blogPostedOn": "21 July 2019",
+      "slug": "abc-blog",
+      "blogColor": "blue"
+    },
+    {
+      "id": "2",
+      "blogTitle": "Sample Blog 2",
+      "blogContent": "Dummy text is also used to demonstrate the appearance of different typefaces and layouts, and in general the content of dummy text is nonsensical. Due to its widespread use as filler text for layouts, non-readability is of great importance: human perception is tuned to recognize certain patterns and repetitions in texts. If the distribution of letters and 'words' is random, the reader will not be distracted from making a neutral judgement on the visual impact and readability of the typefaces (typography), or the distribution of text on the page (layout or type area). For this reason, dummy text usually consists of a more or less random series of words or syllables. This prevents repetitive patterns from impairing the overall visual impression and facilitates the comparison of different typefaces. Furthermore, it is advantageous when the dummy text is relatively realistic so that the layout impression of the final publication is not compromised.",
+      "blogImage": "sample2.jpeg",
+      "blogQuote": "Be positive",
+      "blogBrief": "Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Eget nullam non nisi est sit amet facilisis. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Est sit amet facilisis magna etiam tempor. Odio ut sem nulla pharetra diam. Mi sit amet mauris commodo quis. Cum sociis natoque penatibus et magnis dis. Lobortis feugiat vivamus at augue eget arcu dictum varius duis.",
+      "blogAuthor": "XYZ ABC",
+      "blogPostedOn": "21 July 2019",
+      "slug": "abd-blog",
+      "blogColor": "green"
+    },
+    {
+      "id": "3",
+      "blogTitle": "Sample Blog 3",
+      "blogContent": "Dummy text is also used to demonstrate the appearance of different typefaces and layouts, and in general the content of dummy text is nonsensical. Due to its widespread use as filler text for layouts, non-readability is of great importance: human perception is tuned to recognize certain patterns and repetitions in texts. If the distribution of letters and 'words' is random, the reader will not be distracted from making a neutral judgement on the visual impact and readability of the typefaces (typography), or the distribution of text on the page (layout or type area). For this reason, dummy text usually consists of a more or less random series of words or syllables. This prevents repetitive patterns from impairing the overall visual impression and facilitates the comparison of different typefaces. Furthermore, it is advantageous when the dummy text is relatively realistic so that the layout impression of the final publication is not compromised.",
+      "blogImage": "sample3.jpeg",
+      "blogQuote": "Be positive",
+      "blogBrief": "Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Eget nullam non nisi est sit amet facilisis. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Est sit amet facilisis magna etiam tempor. Odio ut sem nulla pharetra diam. Mi sit amet mauris commodo quis. Cum sociis natoque penatibus et magnis dis. Lobortis feugiat vivamus at augue eget arcu dictum varius duis.",
+      "blogAuthor": "XYZ ABC",
+      "blogPostedOn": "21 July 2019",
+      "slug": "abe-blog",
+      "blogColor": "brown"
+    }
+  ]
+}

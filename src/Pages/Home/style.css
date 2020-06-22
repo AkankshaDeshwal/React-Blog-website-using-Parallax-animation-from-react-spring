@@ -1,0 +1,34 @@
+.topBoxInner {
+  background-color: white;
+  border-radius: 5px;
+  margin: 0 auto;
+  width: 600px;
+  height: 200px;
+  text-align: center;
+  font-size: 80px;
+  font-family: "Rancho", cursive;
+}
+.blogsDiv {
+  margin: 300px auto;
+}
+
+.topBox {
+  border-radius: 5px;
+  margin: 20px auto;
+  width: 1400px;
+  height: 550px;
+  padding-top: 175px;
+  padding-bottom: 175px;
+  background-image: url("../../images/cover.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.aboutUs {
+  border-radius: 5px;
+  width: 1400px;
+  padding: 50px;
+  margin: 700px auto;
+  line-height: 30px;
+  font-family: "Delius", cursive;
+}
